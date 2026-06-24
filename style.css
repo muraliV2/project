@@ -79,7 +79,7 @@ body {
     cursor: pointer;
 }
 
-/* 📱 Mobile only tweaks */
+/
 @media (max-width: 480px) {
     .cl {
         height: 42px;
