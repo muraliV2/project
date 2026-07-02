@@ -24,6 +24,5 @@ if(submitBtn)
         }
     })
 }
-
 let result = document.getElementById("sels")
 result.textContent = `you selected ${localStorage.getItem("range")} out of 5`
