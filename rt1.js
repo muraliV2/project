@@ -9,7 +9,6 @@ for( let btn of buttons)
         localStorage.setItem("range",selectedRating)
     })
 }
-
 let submitBtn = document.getElementById("subtn")
 if(submitBtn)
 {
