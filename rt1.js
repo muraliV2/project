@@ -1,7 +1,6 @@
 
 let buttons = document.getElementsByClassName("cl");
 let selectedRating = null;
-
 for( let btn of buttons)
 {
     btn.addEventListener("click",(e) =>
